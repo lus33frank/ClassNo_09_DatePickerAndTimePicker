@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Padding">16dp</dimen>
+    <dimen name="TextSize_26">26sp</dimen>
+    <dimen name="MarginBottom">30dp</dimen>
+</resources>
